@@ -30,8 +30,15 @@ tac metadata artifacts a.json
 tac metadata verify a.json
 ```
 
+## Recommended TAC Blog Posts
+- [Streamline Open-Source Security Compliance on Kubernetes with Tanzu Application Catalog](https://tanzu.vmware.com/content/blog/streamline-open-source-security-compliance-on-kubernetes-with-tanzu-application-catalog)
+
 ## TAC Documentation
 - [Tanzu Application Catalog Documantation](https://docs.bitnami.com/tanzu-application-catalog/)
+- [Discover And **Monitor** Tanzu Application Catalog Workloads With **Wavefront**](https://docs.bitnami.com/tanzu-application-catalog/how-to/discover-monitor-tac-workloads-wavefront/)
+- [Improve Application Security And Interoperability With Tanzu Application Catalog **Metadata**](https://docs.bitnami.com/tanzu-application-catalog/how-to/consume-tac-metadata/)
+- [Synchronize Tanzu Application Catalog Helm Charts In **Air-Gapped Environments**](https://docs.bitnami.com/tanzu-application-catalog/how-to/sync-tac-helm-charts-air-gapped-environments/)
+
 - [How To Use And Consume Trusted Content In Your Organization With VMware Tanzu Application Catalog](https://docs.bitnami.com/tanzu-application-catalog/get-started-tanzu-application-catalog/)
   - in your Local Machine
   - through Kubeapps
